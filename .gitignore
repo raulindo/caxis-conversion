@@ -1,2 +1,2 @@
-*.D_Store
-*.ipynb_checkpoints
+.D_Store
+.ipynb_checkpoints
